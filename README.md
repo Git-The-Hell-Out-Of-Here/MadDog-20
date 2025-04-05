@@ -1,2 +1,2 @@
 # MadDog-20
-Generic ansible training code share
+A generic git share for learning.
